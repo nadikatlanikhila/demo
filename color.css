@@ -1,0 +1,75 @@
+*{
+    
+    background-image: url("https://megaone.acrothemes.com/food-delivery/img/bg-1.jpg");
+}
+#logo{
+    margin-top: 30px;
+    padding-left: 30px;
+}
+#food{
+    justify-content: center;
+}
+ul{
+    color: white;
+    list-style-type: none;
+    justify-content: center;
+}
+
+li{
+    float: left;
+    color: white;
+    padding-left:60px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    transition: .5s ease;
+    line-height: 1.9;
+    justify-content: center;
+}
+#address{
+    color: white;
+}
+#code2{
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    line-height: 66px;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 59px;
+    font-family: "Grand Hotel", cursive;
+}
+#second{
+    display: flex;
+    color:white;
+    background-image: url(https://megaone.acrothemes.com/food-delivery/img/slider-ele3.png);
+    background-position:right;
+    background-size: contain;
+    background-repeat: no-repeat;
+   
+    
+    
+}
+#code{
+    padding-left: 40px;
+    margin-top: 80px;
+    justify-content: center;
+}
+#pic{
+    margin-top: 80px;
+
+}
+#image{
+    padding-left: 230px;
+} 
+#logo{
+    color: white;
+    padding-left: 30px;
+}
+  
+    
+
+
+    
